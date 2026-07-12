@@ -1,0 +1,6 @@
+requests>=2.31
+prompt_toolkit>=3.0
+rich>=13.0
+ddgs>=9.0
+# Optional but recommended for more accurate context-token measurement:
+tiktoken>=0.7
